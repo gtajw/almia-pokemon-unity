@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba0b2f4183b60854cb2b371a07d2d3ab, type: 3}
+  m_Name: Spearow
+  m_EditorClassIdentifier: 
+  name: Spearow
+  description: 
+  frontSprite: {fileID: -7371509505491802261, guid: f247c5784b1eece498e0f7f7e07b216c, type: 3}
+  backSprite: {fileID: -1045133410153605164, guid: a517da5e4c03a564c8bfbe592c42d1e2, type: 3}
+  type1: 1
+  type2: 10
+  maxHp: 40
+  attack: 60
+  defense: 30
+  spAttack: 31
+  spDefense: 31
+  speed: 70
+  learnableMove:
+  - moveBase: {fileID: 11400000, guid: 37f110a02bebfaf4d92a8feb752d24d3, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f3dc9b8a2700d3d40b91bc5562895ed1, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: d171f31a80b9b0c44b8c6d3069c95bf8, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: b9b90a9d29ca0b148a3ed02ccc904fa5, type: 2}
+    level: 2

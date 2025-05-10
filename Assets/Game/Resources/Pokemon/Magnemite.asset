@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba0b2f4183b60854cb2b371a07d2d3ab, type: 3}
+  m_Name: Magnemite
+  m_EditorClassIdentifier: 
+  name: Magnemite
+  description: 
+  frontSprite: {fileID: 5757751276978669553, guid: 2ae06e1831aded749aa81f446e3a9ebe, type: 3}
+  backSprite: {fileID: 5757751276978669553, guid: 251396616f9ee91489269dc1e187c071, type: 3}
+  type1: 4
+  type2: 17
+  maxHp: 25
+  attack: 35
+  defense: 70
+  spAttack: 95
+  spDefense: 55
+  speed: 45
+  learnableMove:
+  - moveBase: {fileID: 11400000, guid: 5e59ddff299280d4bb4c8f7078b7edf9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ca50f54d4accbc649bd2f78fac2c35c6, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: cbf1897285eb5bb4e85256c8db45abb7, type: 2}
+    level: 6

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba0b2f4183b60854cb2b371a07d2d3ab, type: 3}
+  m_Name: Bolganore
+  m_EditorClassIdentifier: 
+  name: Bolganore
+  description: 
+  frontSprite: {fileID: -535329649104301322, guid: d53c4aa15adf5a347a26ee30869f7220, type: 3}
+  backSprite: {fileID: 41546305168294186, guid: d53c4aa15adf5a347a26ee30869f7220, type: 3}
+  type1: 1
+  type2: 18
+  maxHp: 80
+  attack: 80
+  defense: 55
+  spAttack: 49
+  spDefense: 50
+  speed: 55
+  learnableMove:
+  - moveBase: {fileID: 11400000, guid: 5e59ddff299280d4bb4c8f7078b7edf9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 653d6b49bbe745344a9e22d498f35c1c, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 9dbc4057393034a4ea3fa3c349b8cafd, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 987725dcb6c21cd4ea3bbf502f9802b7, type: 2}
+    level: 8

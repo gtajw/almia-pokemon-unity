@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba0b2f4183b60854cb2b371a07d2d3ab, type: 3}
+  m_Name: Andrecado
+  m_EditorClassIdentifier: 
+  name: Andrecado
+  description: 
+  frontSprite: {fileID: -9134746887397014787, guid: 408da748a0d60e34e9b984da1a29b488, type: 3}
+  backSprite: {fileID: -8499632254369046106, guid: 408da748a0d60e34e9b984da1a29b488, type: 3}
+  type1: 8
+  type2: 4
+  maxHp: 65
+  attack: 85
+  defense: 70
+  spAttack: 75
+  spDefense: 70
+  speed: 40
+  learnableMove:
+  - moveBase: {fileID: 11400000, guid: cbf1897285eb5bb4e85256c8db45abb7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 63b6fda1f859beb47941d76ca66b6ad8, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: 40b612da774a881448f467af48dd6e40, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 133d35dccc895d647a694405e31042bc, type: 2}
+    level: 7

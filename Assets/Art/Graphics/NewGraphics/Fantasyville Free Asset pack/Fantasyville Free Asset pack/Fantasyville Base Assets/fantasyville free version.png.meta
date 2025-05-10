@@ -1,0 +1,1617 @@
+fileFormatVersion: 2
+guid: f23cc3c1d3954604588c17914932599a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5342150394069824327
+    second: fantasyville free version_0
+  - first:
+      213: -8284987747437845823
+    second: fantasyville free version_1
+  - first:
+      213: 544382518475699751
+    second: fantasyville free version_2
+  - first:
+      213: -4011221161912779088
+    second: fantasyville free version_3
+  - first:
+      213: -604214960599408471
+    second: fantasyville free version_4
+  - first:
+      213: 7005967024729990115
+    second: fantasyville free version_5
+  - first:
+      213: 4205890119752080241
+    second: fantasyville free version_6
+  - first:
+      213: -2617944544985699797
+    second: fantasyville free version_7
+  - first:
+      213: -7381581833273959510
+    second: fantasyville free version_8
+  - first:
+      213: -8654978529796573663
+    second: fantasyville free version_9
+  - first:
+      213: 3561692363890509825
+    second: fantasyville free version_10
+  - first:
+      213: 6028126202515125928
+    second: fantasyville free version_11
+  - first:
+      213: -2350312096756825881
+    second: fantasyville free version_12
+  - first:
+      213: 605171434054484669
+    second: fantasyville free version_13
+  - first:
+      213: -451953925078028203
+    second: fantasyville free version_14
+  - first:
+      213: -8949926617975181164
+    second: fantasyville free version_15
+  - first:
+      213: 7897895515421172742
+    second: fantasyville free version_16
+  - first:
+      213: -6458304662821482029
+    second: fantasyville free version_17
+  - first:
+      213: -8632026866438911822
+    second: fantasyville free version_18
+  - first:
+      213: 5286340364700305383
+    second: fantasyville free version_19
+  - first:
+      213: -8456271966303504309
+    second: fantasyville free version_20
+  - first:
+      213: 8441072058519293555
+    second: fantasyville free version_21
+  - first:
+      213: 4680472405197707330
+    second: fantasyville free version_22
+  - first:
+      213: 2082118817465245805
+    second: fantasyville free version_23
+  - first:
+      213: -4712435052531077711
+    second: fantasyville free version_24
+  - first:
+      213: -6072842185843401100
+    second: fantasyville free version_25
+  - first:
+      213: -1363519616967545255
+    second: fantasyville free version_26
+  - first:
+      213: 6457118647732315660
+    second: fantasyville free version_27
+  - first:
+      213: 5755719178448190940
+    second: fantasyville free version_28
+  - first:
+      213: 4239177708035746609
+    second: fantasyville free version_29
+  - first:
+      213: -5490776567229926660
+    second: fantasyville free version_30
+  - first:
+      213: -1187899386128138091
+    second: fantasyville free version_31
+  - first:
+      213: 2556500595647455218
+    second: fantasyville free version_32
+  - first:
+      213: -6996432161067877711
+    second: fantasyville free version_33
+  - first:
+      213: -6011506351694796470
+    second: fantasyville free version_34
+  - first:
+      213: 764271790713433933
+    second: fantasyville free version_35
+  - first:
+      213: -6767093179710028400
+    second: fantasyville free version_36
+  - first:
+      213: 7769022194354842247
+    second: fantasyville free version_37
+  - first:
+      213: 7469374537965488201
+    second: fantasyville free version_38
+  - first:
+      213: -1957922096415036310
+    second: fantasyville free version_39
+  - first:
+      213: 4458205296259048212
+    second: fantasyville free version_40
+  - first:
+      213: 7292863262544290842
+    second: fantasyville free version_41
+  - first:
+      213: -8022982357117726249
+    second: fantasyville free version_42
+  - first:
+      213: -25225146912346642
+    second: fantasyville free version_43
+  - first:
+      213: 5981012163356044609
+    second: fantasyville free version_44
+  - first:
+      213: 9056449708829600636
+    second: fantasyville free version_45
+  - first:
+      213: 1568185739684172530
+    second: fantasyville free version_46
+  - first:
+      213: 670070784662414889
+    second: fantasyville free version_47
+  - first:
+      213: 7410736014791046189
+    second: fantasyville free version_48
+  - first:
+      213: -998726275566406972
+    second: fantasyville free version_49
+  - first:
+      213: 3958249477927409966
+    second: fantasyville free version_50
+  - first:
+      213: 6264497748653473227
+    second: fantasyville free version_51
+  - first:
+      213: 8950492965620629217
+    second: fantasyville free version_52
+  - first:
+      213: -8129477547826698247
+    second: fantasyville free version_53
+  - first:
+      213: -8729132837066403325
+    second: fantasyville free version_54
+  - first:
+      213: 4313374532343522798
+    second: fantasyville free version_55
+  - first:
+      213: 7171942517867358659
+    second: fantasyville free version_56
+  - first:
+      213: -3259985090724512075
+    second: fantasyville free version_57
+  - first:
+      213: -7026274558674663797
+    second: fantasyville free version_58
+  - first:
+      213: -1775541170441640689
+    second: fantasyville free version_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasyville free version_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 630
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc41c0458edcd5b0800000000000000
+      internalID: -5342150394069824327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 630
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e0891a8fc50d80800000000000000
+      internalID: -8284987747437845823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 593
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7263dab24090e8700800000000000000
+      internalID: 544382518475699751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 580
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beb8a80b974558c0800000000000000
+      internalID: -4011221161912779088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 580
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ee71d1b56d97f0800000000000000
+      internalID: -604214960599408471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 580
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3a129c3e13a3160800000000000000
+      internalID: 7005967024729990115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 580
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd528b7c25e5a30800000000000000
+      internalID: 4205890119752080241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 580
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa47a8e413babd0800000000000000
+      internalID: -2617944544985699797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 580
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab9a339e6a5f8990800000000000000
+      internalID: -7381581833273959510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 592
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b7d812e653e780800000000000000
+      internalID: -8654978529796573663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 595
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084ae4955cad6130800000000000000
+      internalID: 3561692363890509825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 595
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a67322c7d438a350800000000000000
+      internalID: 6028126202515125928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 596
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08189b993026fd0800000000000000
+      internalID: -2350312096756825881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 594
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db208038630066800800000000000000
+      internalID: 605171434054484669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 595
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55071e8bc465ab9f0800000000000000
+      internalID: -451953925078028203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 596
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b6c1e8297bc380800000000000000
+      internalID: -8949926617975181164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 593
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60464dd5026fa9d60800000000000000
+      internalID: 7897895515421172742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 561
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1d641702e7f56a0800000000000000
+      internalID: -6458304662821482029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 561
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c746ac41e43880800000000000000
+      internalID: -8632026866438911822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 415
+        width: 274
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e745cfad8adc5940800000000000000
+      internalID: 5286340364700305383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 504
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b26c237945aa80800000000000000
+      internalID: -8456271966303504309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 487
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e84838056b42570800000000000000
+      internalID: 8441072058519293555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 474
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d3d4bad064f040800000000000000
+      internalID: 4680472405197707330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 432
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d602c2f680c25ec10800000000000000
+      internalID: 2082118817465245805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 448
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd29ca89411a9eb0800000000000000
+      internalID: -4712435052531077711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 451
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e1ccf053ee8bba0800000000000000
+      internalID: -6072842185843401100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 435
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e6f52f12ec31de0800000000000000
+      internalID: -1363519616967545255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 433
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06a2a6e23b4c9950800000000000000
+      internalID: 6457118647732315660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 435
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddbe42091c60ef40800000000000000
+      internalID: 5755719178448190940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 436
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba9335aa594da30800000000000000
+      internalID: 4239177708035746609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 441
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b831bdc7dcc3b0800000000000000
+      internalID: -5490776567229926660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 433
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5908de45dcbb38fe0800000000000000
+      internalID: -1187899386128138091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 435
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff14af2fb38a7320800000000000000
+      internalID: 2556500595647455218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 434
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba3e68a40ea7ee90800000000000000
+      internalID: -6996432161067877711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a492a3ec2d6d29ca0800000000000000
+      internalID: -6011506351694796470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 399
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6355f42d3b9a00800000000000000
+      internalID: 764271790713433933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 400
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954a6d4b947612a0800000000000000
+      internalID: -6767093179710028400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 401
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a65a2168c11db60800000000000000
+      internalID: 7769022194354842247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_38
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 402
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c7cd519c88a760800000000000000
+      internalID: 7469374537965488201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_39
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 385
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c2b411a3014d4e0800000000000000
+      internalID: -1957922096415036310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 351
+        width: 210
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413294ba81abedd30800000000000000
+      internalID: 4458205296259048212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14e27f7f74753560800000000000000
+      internalID: 7292863262544290842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 384
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d195c4cd04a8a090800000000000000
+      internalID: -8022982357117726249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 386
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede1eeccd166aff0800000000000000
+      internalID: -25225146912346642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 341
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14da022bfd2d00350800000000000000
+      internalID: 5981012163356044609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b6afce609fead70800000000000000
+      internalID: 9056449708829600636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 341
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f255b32f9053c510800000000000000
+      internalID: 1568185739684172530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 336
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ab2614d19c4900800000000000000
+      internalID: 670070784662414889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 336
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2470d5442938d660800000000000000
+      internalID: 7410736014791046189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 185
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2f30d6ebfc322f0800000000000000
+      internalID: -998726275566406972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 292
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e291d30bde68ee630800000000000000
+      internalID: 3958249477927409966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd79bcf287ffe650800000000000000
+      internalID: 6264497748653473227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 234
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee33743ee9863c70800000000000000
+      internalID: 8950492965620629217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 234
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7a648fd3b4e2f80800000000000000
+      internalID: -8129477547826698247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30295710fe3ebd680800000000000000
+      internalID: -8729132837066403325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee56d8fa84f2cdb30800000000000000
+      internalID: 4313374532343522798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9210fa8bbd78360800000000000000
+      internalID: 7171942517867358659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_57
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 79
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bebb4605d432c2d0800000000000000
+      internalID: -3259985090724512075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 97
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8605d30488ad7e90800000000000000
+      internalID: -7026274558674663797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasyville free version_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 80
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05aeb376b20c57e0800000000000000
+      internalID: -1775541170441640689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
